@@ -32,12 +32,12 @@ namespace Copenhagen_zoo
         //Public method, so animals can drink
         public void Drink()
         {
-
+            Console.WriteLine("Drinks");
         }
         //Public method, so animals can eat
         public void Eat()
         {
-
+            Console.WriteLine("Eats");
         }
         
     }
